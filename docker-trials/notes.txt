@@ -1,0 +1,19 @@
+http://blog.hypriot.com/post/docker-compose-nodejs-haproxy/
+http://southworks.com/blog/2015/07/17/docker-compose-scaling-multi-container-applications/
+
+Docker 1.12: Now With Built-In Orchestration!
+https://blog.docker.com/2016/06/docker-1-12-built-in-orchestration/
+
+Using Compose in production
+https://docs.docker.com/compose/production/
+
+Using Compose with Swarm
+https://docs.docker.com/compose/swarm/
+
+Orchestrating Docker With Machine, Swarm And Compose
+https://blog.docker.com/2015/02/orchestrating-docker-with-machine-swarm-and-compose/
+
+How to scale Docker Containers with Docker-Compose
+https://www.brianchristner.io/how-to-scale-a-docker-container-with-docker-compose/
+
+docker rm `docker ps -aq -f status=exited`
